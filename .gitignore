@@ -1,2 +1,8 @@
 *.class
 *.log
+*.scala
+
+target
+.idea
+*.iml
+ui/package-lock.json
